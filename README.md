@@ -1,1 +1,2 @@
-# SE-Praktika1
+# SE-Praktika1 -> Besipielprojekt
+##Prakrikumsinhalt
