@@ -1,3 +1,7 @@
+:source-highlighter: highlight.js 
+:imagesdir: images
+
+
 = Beispiel-Dokumentation mit AsciiDoc 
 Emujin Uuganbayar <emujin.uuganbayar@stud-htw.dresden.de> 
 1.0, 01.09.2019 
@@ -59,3 +63,4 @@ int main(int argc, char* argv[])
 --
 
 ===Bilder
+.Screenshot
