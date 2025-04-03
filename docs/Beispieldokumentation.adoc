@@ -7,3 +7,15 @@ Emujin Uuganbayar <emujin.uuganbayar@stud-htw.dresden.de>
 
 == Einführung
 Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und praktische Üben der Syntax von AsciiDoc.
+
+== Kennenlernen der Syntax
+Über die Aufgaben wird sas Dokument Stück für Stück aufgebaut und angepasst 
+
+=== Listen
+
+.Beispiel: unsortierte Liste 
+const list_unsort = [1,10,3,7,2];
+
+.Beispiel: sortierte Liste
+const list_sort = [1,2,3,7,10];
+
