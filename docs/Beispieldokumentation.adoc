@@ -14,8 +14,17 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 === Listen
 
 .Beispiel: unsortierte Liste 
-const list_unsort = [1,10,3,7,2];
+-Level 1 list item
+    -Level 2 list item
+        -Level 3 list item
+            -Level 4 list item
+                -Level 5 list item
+                    -etc.
+-Level 1 list item
 
 .Beispiel: sortierte Liste
-const list_sort = [1,2,3,7,10];
-
+1. Step 1
+2. Step 2
+    Step 2a
+    Step 2b
+3. Step 3
