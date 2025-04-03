@@ -43,5 +43,19 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 |===
 
 === Software Engineering - Word Formatierung
-**S**__o__ftware **E**ng__i__nee#r_i_ng#
+**S**__o__ftware **E**ng__i__nee``r__i__ng``
 
+===Quellcode 
+.hello_world.c
+[source,c]
+--
+#include <stdio.h>
+
+int main(int argc, char* argv[])
+{
+    printf("Hello, World!\n");
+    return 0;
+}
+--
+
+===Bilder
