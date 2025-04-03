@@ -71,4 +71,11 @@ image::screenshot.png[]
 * <<Tabellen und Textformatierung>>
 * <<Software Engineering - Word Formatierung>>
 * <<Quellcode>>
-//https://www.informatik.htw-dresden.de/~zirkelba/praktika/se/arbeiten-mit-git-und-asciidoc/ 
+* https://www.informatik.htw-dresden.de/~zirkelba/praktika/se/arbeiten-mit-git-und-asciidoc/[Arbeiten mit Git und ASCII DOC]
+* https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Syntax Quick Reference]
+
+=== Includes
+include::/Users/macbookair/Desktop/Uni/Sem 4/Software Engineering 1/Praktika/SE-Praktika1/docs/src/main.c[]
+
+
+//Gitignore ignoriert, was darauf steht. Z.B: *.html -> dann wird html Datei ignoriert
